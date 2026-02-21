@@ -75,7 +75,4 @@ The comparison between Random Forest and XGBoost highlighted how different model
 - **Plotly interactive line charts** – Airline-wise delay trends.  
 - **Side-by-side feature importance plots** – Random Forest vs. XGBoost.  
 
----
-
-## Repository Structure
 
